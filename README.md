@@ -1,6 +1,6 @@
 # CBB Rulebook Compliance Assistant (RAG)
 
-**Live demo:** _not deployed yet_ - see [Deploying](#deploying-to-streamlit-community-cloud). Run locally with `streamlit run app/streamlit_app.py`.
+**Live demo:** https://cbb-compliance-assistant.streamlit.app/ (5 example questions work without an API key). Run locally with `streamlit run app/streamlit_app.py`.
 
 A retrieval-augmented assistant that answers questions about the **Central Bank of Bahrain (CBB) Rulebook** with **exact rule citations**, **refuses** when the retrieved text doesn't support an answer, and is **evaluated on a 30-question test set**.
 
