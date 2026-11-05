@@ -1,0 +1,31 @@
+id,type,question,gold_rules,gold_answer_note
+1,answerable,Within how many days must a bank appoint a permanent replacement if the MLRO position falls vacant?,FC-4.1.9,120 calendar days with CBB approval; interim acting MLRO meanwhile
+2,answerable,Above what amount must all transactions be treated as significant if a bank has no automated transaction monitoring?,FC-2.2.3,BD 6000; captured in a daily report for the MLRO
+3,answerable,How often must a bank review and update its customer due diligence information?,FC-2.2.11,At least every three years
+4,answerable,How must suspicious transaction reports be submitted to the authorities?,FC-5.2.3,Via the Online STR system; paper STRs not accepted
+5,answerable,Are bank staff allowed to tell a customer that a suspicious transaction report has been filed about them?,FC-5.2.6,No - tipping off is prohibited
+6,answerable,What is the maximum fine the CBB can levy for failing to comply with the Financial Crime module?,FC-9.1.1,Up to BD 20000 without a court order
+7,answerable,What approval is needed before a bank accepts a politically exposed person as a customer?,FC-1.5.2,Senior management approval
+8,answerable,Can the MLRO role be outsourced to a third party?,FC-4.1.2,No - may not be outsourced
+9,answerable,How many times a year must the Board of a Bahraini conventional bank meet?,HC-3.1.7,At least four times a year; half in Bahrain
+10,answerable,What minimum Board meeting attendance must each director achieve in a financial year?,HC-3.1.8,At least 75% of meetings; proxies prohibited
+11,answerable,What is the minimum size and independence requirement for the audit committee?,HC-3.4.1,At least three directors; majority independent
+12,answerable,Can the Chairperson of the Board also be the CEO?,HC-3.2.1,No
+13,answerable,What proportion of the Board must be independent when a bank has a controller?,HC-2.1.2,At least one-third
+14,answerable,How often must the audit committee meet with the external auditor?,HC-3.4.5,At least twice a year
+15,answerable,Must a conventional bank appoint a chief risk officer?,HC-8.1.6,Yes - CRO or equivalent
+16,answerable,What is the minimum CET1 ratio on a consolidated basis?,CA-2.2.1,6.5% of RWA at all times
+17,answerable,How are market risk and operational risk capital requirements converted into risk-weighted assets?,CA-1.1.3,Multiplied by 12.5 and added to credit risk RWA
+18,answerable,By when must a bank notify the CBB after breaching a minimum capital adequacy ratio?,CA-1.2.2,By the following business day
+19,answerable,What risk weight applies to claims on GCC governments and their central banks?,CA-3.2.1,0%
+20,answerable,What is the maximum contribution Tier 2 capital can make towards the minimum total capital ratio?,CA-2.2.4,Limited to 2.0%
+21,multi_rule,Who must investigate a significant transaction above the BD 6000 threshold and how long must the findings be kept?,FC-2.2.5;FC-2.2.6,MLRO or delegate investigates; documents kept five years
+22,multi_rule,Can the MLRO also act as Compliance Officer or internal auditor?,FC-4.1.2;FC-4.1.3,Not combined with conflicting roles such as internal auditor; may be combined with Compliance Officer where business is limited
+23,multi_rule,What total capital ratio must a bank hold once the capital conservation buffer is added and what happens to profit distributions below it?,CA-2.2.1;CA-2A.2.2,10% plus 2.5% CCB = 12.5% consolidated; otherwise retain profits / distribution constraints
+24,multi_rule,Who can be a member of the risk committee and who may chair it?,HC-3.5.1;HC-3.5.2,At least three directors majority independent; CEO/senior mgmt excluded (HC-3.5.3 context); chair independent
+25,multi_rule,What enhanced measures apply when an existing customer becomes a PEP and do they extend to the PEP's family?,FC-1.5.3;FC-1.5.3B,Enhanced monitoring/CDD list; also applies to family and close associates
+26,unanswerable,What is the minimum liquidity coverage ratio a bank must maintain?,,Liquidity module not ingested
+27,unanswerable,What alpha percentage is applied to gross income under the basic indicator approach for operational risk?,,CA-7 not ingested; CA-1.1.6 only names the approach
+28,unanswerable,What are the licensing requirements for a cryptoasset service provider in Bahrain?,,Crypto module not ingested
+29,unanswerable,What are the Sharia governance requirements for an Islamic bank licensee?,,Volume 2 not ingested
+30,unanswerable,What risk weight applies to retail mortgages under the internal ratings-based approach?,,Rulebook module only covers the standardised approach

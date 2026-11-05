@@ -1,0 +1,373 @@
+[
+  {
+    "question": "Within how many days must a bank appoint a permanent replacement if the MLRO position falls vacant?",
+    "answer": "A conventional bank licensee must appoint a permanent replacement MLRO, after obtaining CBB approval, within 120 calendar days of the vacancy occurring [FC-4.1.9]. In the meantime it must make immediate interim arrangements, including appointing an acting MLRO, and those interim arrangements must be approved by the CBB [FC-4.1.9].",
+    "status": "answered",
+    "citations": [
+      "FC-4.1.9"
+    ],
+    "chunks": [
+      {
+        "rule_id": "FC-4.1.9",
+        "heading": "Appointment of MLRO",
+        "module": "FC",
+        "last_changed": "October 2017",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "If the position of MLRO falls vacant, the conventional bank licensee\nmust appoint a permanent replacement (after obtaining CBB approval),\nwithin 120 calendar days of the vacancy occurring. Pending the\nappointment of a permanent replacement, the licensee must make\nimmediate interim arrangements (including the appointment of an\nacting MLRO) to ensure continuity in the MLRO function's\nperformance. These interim arrangements must be approved by the\nCBB."
+      },
+      {
+        "rule_id": "FC-4.1.4",
+        "heading": "Appointment of MLRO",
+        "module": "FC",
+        "last_changed": "October 2017",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Conventional bank licensees must appoint at least one deputy MLRO\n(or more depending on the scale and complexity of the licensee's\noperations) to act for the MLRO in his absence. The position of Deputy\nMLRO is a controlled function and the DMLRO is an approved person.\nThe DMLRO must be approved by CBB prior to his appointment. The\nDMLRO must satisfy the conditions outlined in Subparagraphs FC-\n4.1.6 (d) to (g)."
+      },
+      {
+        "rule_id": "FC-4.1.1",
+        "heading": "Appointment of MLRO",
+        "module": "FC",
+        "last_changed": "October 2017",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Conventional bank licensees must appoint a Money Laundering\nReporting Officer ('MLRO' who is an approved person. The MLRO\nmust be approved by CBB prior to his appointment. The licensee must\nsubmit to the CBB a completed Form 3 , in accordance with Chapter\nLR-1A."
+      },
+      {
+        "rule_id": "FC-4.1.3A",
+        "heading": "Appointment of MLRO",
+        "module": "FC",
+        "last_changed": "October 2017",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "For the purpose of Paragraphs FC-4.1.2 and FC-4.1.3 above, conventional bank\nlicensees must clearly state in the Application for Approved Person Status – Form 3\n– when combining the MLRO or DMLRO position with any other position within\nthe conventional bank licensee."
+      },
+      {
+        "rule_id": "FC-4.1.6",
+        "heading": "Appointment of MLRO",
+        "module": "FC",
+        "last_changed": "October 2017",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "So that he can carry out his functions effectively, conventional bank\nlicensees must ensure that their MLRO:\n(a) Is a member of senior management of the licensee;\n(b) Has a sufficient level of seniority within the conventional bank\nlicensee, has the author ity to act without interference from\nbusiness line management and has direct access to the Board and\nsenior management (where necessary);\n(c) Has sufficient resources, including sufficient time and (if\nnecessary) support staff, and has designated a replacement to carry\nout the function should the MLRO be unable to perform his duties;\n(d) Has unrestricted access to all transactional information relating to\nany financial services provided by the conventional bank licensee\nto a customer, or any transactions conducted by the conventional\nbank licensee on behalf of that customer;\n(e) Is provided with timely information needed to identify, analyse\nand effectively monitor customer accounts;\n(f) Has access to all customer due diligence information obtained by\nthe conventional bank licensee; and\n(g) Is resident in Bahrain."
+      },
+      {
+        "rule_id": "FC-7.1.2",
+        "heading": "General Requirements",
+        "module": "FC",
+        "last_changed": "January 2019",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Conventional bank licensees must retain copies of the reports produced\nfor their annual compliance review, as specified in Paragraph FC-4.3.1B,\nfor at least five years. Conventional bank licensees must also maintain\nfor 5 years reports made to, or by, the MLRO made in accordance with\nSections FC-5.1 and 5.2, and records showing how these reports were\ndealt with and what action, if any, was taken as a consequence of those\nreports.\nTraining Records"
+      },
+      {
+        "rule_id": "FC-4.1.3",
+        "heading": "Appointment of MLRO",
+        "module": "FC",
+        "last_changed": "October 2017",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Subject to Paragraph FC-4.1.2, however, the position of MLRO may otherwise be\ncombined with other functions in the conventional bank licensee, such as that of\nCompliance Officer, in cases where the volume and geographical spread of the\nbusiness is limited and, therefore, the demands of the function are not likely to require\na full time resource. Paragraph FC-4.1.6 requires that t he MLRO is a Director or\nemployee of the licensee, so the function may not be outsourced to a third party\nemployee."
+      },
+      {
+        "rule_id": "FC-4.1.2",
+        "heading": "Appointment of MLRO",
+        "module": "FC",
+        "last_changed": "October 2017",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "The position of MLRO must not be combined with functions that create\npotential conflicts of interest, such as an internal auditor or business line\nhead. The position of MLRO may not be outsourced."
+      }
+    ]
+  },
+  {
+    "question": "How must suspicious transaction reports be submitted, and how long must the details be kept?",
+    "answer": "Reports must be sent to the Financial Intelligence Directorate at the Ministry of Interior and to the CBB's Compliance Directorate through the Suspicious Transaction Report Online System; paper STRs are not accepted [FC-5.2.3]. Licensees must retain all relevant details of STRs submitted for at least five years [FC-5.2.5].",
+    "status": "answered",
+    "citations": [
+      "FC-5.2.3",
+      "FC-5.2.5"
+    ],
+    "chunks": [
+      {
+        "rule_id": "FC-5.2.3",
+        "heading": "External Reporting",
+        "module": "FC",
+        "last_changed": "October 2019",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Reports to the relevant authorities made under Paragraph FC-5.2.1 must\nbe sent to the Financial Intelligenc e Directorate at the Ministry of\nInterior and the CBB's Compliance Directorate using the Suspicious\nTransaction Report Online System (Online STR system). STRs in\npaper format will not be accepted."
+      },
+      {
+        "rule_id": "FC-5.3.1",
+        "heading": "Contacting the Relevant Authorities",
+        "module": "FC",
+        "last_changed": "October 2019",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Reports made by the MLRO or his duly authorised delegate under\nSection FC-5.2 must be sent electronically using the Suspicious\nTransaction Reporting Online System (Online STR system)."
+      },
+      {
+        "rule_id": "FC-7.1.2",
+        "heading": "General Requirements",
+        "module": "FC",
+        "last_changed": "January 2019",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Conventional bank licensees must retain copies of the reports produced\nfor their annual compliance review, as specified in Paragraph FC-4.3.1B,\nfor at least five years. Conventional bank licensees must also maintain\nfor 5 years reports made to, or by, the MLRO made in accordance with\nSections FC-5.1 and 5.2, and records showing how these reports were\ndealt with and what action, if any, was taken as a consequence of those\nreports.\nTraining Records"
+      },
+      {
+        "rule_id": "FC-5.2.5",
+        "heading": "External Reporting",
+        "module": "FC",
+        "last_changed": "October 2019",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Conventional bank licensees must retain all relevant details of STRs\nsubmitted to the relevant authorities for at least five years."
+      },
+      {
+        "rule_id": "FC-2.2.6",
+        "heading": "On-going Customer Due Diligence and Transaction",
+        "module": "FC",
+        "last_changed": "October 2005",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "The investigations required under FC-2.2.5 must be carried out by the\nMLRO (or relevant delegated official). The documents relating to these\nfindings must be maintained for five years from the date when the\ntransaction was completed (see also FC-7.1.1 (b))."
+      },
+      {
+        "rule_id": "FC-4.3.3",
+        "heading": "Compliance Monitoring",
+        "module": "FC",
+        "last_changed": "January 2022",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "The reports listed under Paragraph FC-4.3.1B must be submitted to the\nlicensee's Board, for it to review and commission any required remedial\nmeasures, and copied to the licensee's senior management."
+      },
+      {
+        "rule_id": "FC-4.3.5",
+        "heading": "Compliance Monitoring",
+        "module": "FC",
+        "last_changed": "January 2022",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Conventional bank licensees must instruct their appointed firm to produce\nthe report referred to in Paragraph FC-4.3.1B (c) and (d). The report must\nbe submitted to the Compliance Directorate at the CBB by the 30th of June\nof the following year. The findings of this review must be received and\nacted upon by the licensee."
+      },
+      {
+        "rule_id": "FC-2.2.3",
+        "heading": "On-going Customer Due Diligence and Transaction",
+        "module": "FC",
+        "last_changed": "October 2005",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_FC_July_2022.pdf",
+        "text": "Conventional bank licensees must consider the need to include\nautomated transaction monitoring as part of their risk-based monitoring\nsystems to spot abnormal or unusual flows of funds. In the absence of\nautomated transaction monitoring systems, all transactions above BD\n6,000 must be viewed as 'significant' and be captured in a daily\ntransactions report for monitoring by the MLRO or a relevant delegated\nofficial, and records retained by the conventional bank licensee for five\nyears after the date of the transaction."
+      }
+    ]
+  },
+  {
+    "question": "What are the requirements for the size, independence and chair of the audit committee?",
+    "answer": "The audit committee must have at least three directors, the majority of whom must be independent and free of conflicts of interest [HC-3.4.1]. Its chairperson must be independent, must not chair the Board (unless considered independent) and must not chair any other Board committee [HC-3.4.2].",
+    "status": "answered",
+    "citations": [
+      "HC-3.4.1",
+      "HC-3.4.2"
+    ],
+    "chunks": [
+      {
+        "rule_id": "HC-3.4.2",
+        "heading": "Audit Committee",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "The Chairperson of the audit committee must:\n(a) Be independent;\n(b) Not be the chairperson of the board , unless he is considered\nindependent; and\n(c) Not be the chairperson of any other Board committee."
+      },
+      {
+        "rule_id": "HC-3.4.6",
+        "heading": "Audit Committee",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "The audit committee must, at minimum:\n(a) Ensure that the licensee has effective and adequate policies\ncovering all its business activities, internal audit, financial\nreporting, compliance, risk management, prevention of frauds\nand cyber security breaches, etc.;\n(b) Oversee the financial reporting process;\n(c) Oversee and interact with the licensee's internal and external\nauditors;\n(d) Review the integrity of the conventional bank licensee 's\nfinancial statements;\n(e) Recommend to the Board, based on a Board approved\nobjective criteria, the appointment, remuneration, dismissal\nand rotation of external auditors;\n(f) Review and approve the internal and external audit and\ncompliance scope;\n(g) Receive internal and external audit and compliance reports and\nensure that senior management is taking necessary corrective\nactions in a timely manner to address any control weaknesses,\nnon-compliance with policies, laws and regulations, and other\nproblems identified by auditors, the head of compliance and\nother control functions;\n(h) Assess once a year the extent to which the licensee is managing\nits compliance risk effectively;\n(i) Ensure that the agenda for their meetings includes compliance\nand internal audit issues at least every quarter;\n(j) Recommend the appointment and dismissal of the heads of\ninternal audit and compliance functions. T he licensee must\nalso discuss the reasons for their dismissal with the CBB.\n(k) Make a determination, at least once a year, of the external\nauditor's independence;"
+      },
+      {
+        "rule_id": "HC-3.4.1",
+        "heading": "Audit Committee",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "The audit committee of the Bahraini conventional bank licensee must\nhave at least three directors of which the majority must be independent\nand have no conflict of interest with any other duties they have."
+      },
+      {
+        "rule_id": "HC-3.4.6",
+        "heading": "Audit Committee",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "(l) Commission every five years a quality review of the\neffectiveness and efficiency of the interna l audit and\ncompliance functions by a third -party consultant, other than\nthe external auditor. The results of such independent review\nmust be provided to the CBB by 30th September of the relevant\nyear;\n(m) Review and supervise the implementation and enforcement of\nthe licensee's code of conduct, unless such mandate is\ndelegated to another committee such as the Governance\nCommittee; and\n(n) Ensure that senior management establishes and maintains an\nadequate and effective internal control systems, procedures\nand processes for the business of the licensee."
+      },
+      {
+        "rule_id": "HC-10.1.6",
+        "heading": "Internal Audit",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "The IAF must:\n(a) Be independent of all functions;\n(b) Have sufficient standing and authority within the licensee;\n(c) Have sufficient skilled resources to be able to judge outcomes and\nmake an impact at the highest level of the organization;\n(d) Be able to perform its assignments on its own initiative in all areas\nand functions of the licensee based on the audit plan established by\nthe head of the IAF and approved by the audit committee;\n(e) Be free to report its findings and assessments internally;\n(f) Independently review and evaluate the effectiveness and efficiency\nof all functions, internal controls, risk management, internal risk and\nfinance models, governance framework, policies, procedures,\nsystems and processes, including the licensee's outsourced activities\nand its subsidiaries (including SPVs) and local and overseas\nbranches, and must ensure adequate coverage of matters of\nregulatory interest within the audit plan;\n(g) Develop an independent and informed view of the risks faced by the\nlicensee based on its access to all licensee records and data, its\nenquiries and its professional competence;\n(h) Discuss its views, findings and conclusions directly with the audit\ncommittee and, if necessary, with the board of directors at their\nroutine quarterly meetings; and\n(i) Not be involved in designing, selecting, implementing or operating\nspecific internal control measures. However, the independence of\nthe IAF must not prevent senior management from requesting input\nfrom the IAF on m atters related to risk and internal controls.\nNevertheless, the development and imp lementation of internal\ncontrols must remain the responsibility of management."
+      },
+      {
+        "rule_id": "HC-3.4.5",
+        "heading": "Audit Committee",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "The audit committee must meet:\n(a) At least four times a year.\n(b) At least twice a year with the external auditor.\n(c) At least once a year in the absence of the CEO and any executive\nmanagement, but in presence of the Head of Compliance ,\nInternal Auditor and CRO."
+      },
+      {
+        "rule_id": "HC-10.1.7",
+        "heading": "Internal Audit",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "Licensees must appoint a head of internal audit who shall:\n(a) Report directly to the Audit Committee and administratively to the\nCEO;\n(b) Demonstrate appropriate leadership and have the necessary\npersonal characteristics and professional skills to fulfil his\nresponsibility for maintaining the function's independence and\nobjectivity;\n(c) Inform senior management of all significant findings so that timely\ncorrective actions can be taken, and subsequently, he must follow\nup with senior management on the outcome of those correctiv e\nmeasures;\n(d) Report quarterly to the Audit Committee the status of pending\nfindings;\n(e) Arrange appropriate ongoing training for the internal audit staff to\nmeet the growing technical complexity of the conventional bank\nlicensee's activities and the increasing diversity of tasks that need to\nbe undertaken as a result of the introduction of new products and\nprocesses and other developments in the financial sector;\n(f) Establish an annual internal audit plan approved by the a udit\ncommittee. The plan must be based on a robust risk assessment,\nincluding direct or indirect input from the board, audit committee\nand senior management;\n(g) Develop and maintain appropriate tools to assess the quality of the\nIAF; and"
+      },
+      {
+        "rule_id": "HC-3.7.3",
+        "heading": "Nomination Committee",
+        "module": "HC",
+        "last_changed": "April 2023",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_HC_April_2023.pdf",
+        "text": "The nomination committee must, at minimum:\n(a) Assess and recommend to the Board from time to time the changes\nthat the committee considers desirable to the size of the Board,\nany Board committee or management structure;\n(b) Regularly review the time commitment required from each non -\nexecutive director and require them to inform the committee\nbefore accepting any Board appointments to another company;\n(c) Recommend to the Board persons qualified to become members\nof the Board of directors or CEO and his deputies, chief financial\nofficer, chief operating officer, chief investment officer, chief\nbanking officer, corporate secretary and any equivalent or other\nsenior management positions that the Board determines are\nsubject to its approval. The exceptions are the appointments of the\nchief internal auditor, chief risk officer and head of compliance\nwho must be recommended by other committees as prescribed in\nthis module;\n(d) Assess the role and responsibilities of a Board member, the\nknowledge, experience and competence which the role requires;\n(e) Assess the Board's and senior management's effectiveness;\n(f) Recommend to the Board appropriate succession plans of\napproved persons within senior management;\n(g) Recommend to the Board, and oversee the implementation of,\nappropriate personnel or human resource policies; and\n(h) Recommend to the Board the prescribed title, authority, duties,\naccountability and internal reporting responsibilities for each\napproved person within senior management."
+      }
+    ]
+  },
+  {
+    "question": "What total capital ratio must a bank hold once the capital conservation buffer is included?",
+    "answer": "The minimum consolidated Total Capital ratio is 10% of risk-weighted assets, in addition to a minimum Capital Conservation Buffer of 2.5% [CA-2.2.1]. A bank is therefore required to maintain a consolidated Total Capital Ratio of 12.5% (and a solo ratio of 8%), and must retain 100% of annual net profit unless its consolidated ratio is above 12.5% and its solo ratio is above 8% [CA-2A.2.2].",
+    "status": "answered",
+    "citations": [
+      "CA-2.2.1",
+      "CA-2A.2.2"
+    ],
+    "chunks": [
+      {
+        "rule_id": "CA-2A.2.2",
+        "heading": "The Capital Conservation Buffer (CCB) Requirement",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "Conventional bank licensees must note that they are required to\nmaintain a minimum consolidated Total Capital Ratio of 12.5% and a\nsolo Total Capital Ratio of 8% regardless of whether they do or do not\nhave AT1 or T2 Capital and therefore conventional bank licensees will\nbe required to retain 100% of the annual net profit unless their\nconsolidated Total Capital Ratio is above 12.5% and thei r solo Total\ncapital Ratio is above 8%."
+      },
+      {
+        "rule_id": "CA-2A.2.1",
+        "heading": "The Capital Conservation Buffer (CCB) Requirement",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "Conventional bank licensees are required to hold a Capital Conservation\nBuffer (CCB) of 2.5%, comprised of C ET1 above the regulatory\nminimum Total Capital ratio of 10% .8 Capital distribution constraints\nwill be imposed on a conventional bank licensee when the CCB falls\nbelow 2.5%. The constraints imposed only relate to distributions, not\nthe operation of the conventional bank licensee."
+      },
+      {
+        "rule_id": "CA-2A.2.4",
+        "heading": "The Capital Conservation Buffer (CCB) Requirement",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "Where a conventional bank licensee fails to meet the required level of\ncapital conservation buffer, it must prepare a Capital Conservation Plan\n(hereinafter referred to as \"Plan\") clearly outlining the information\nmentioned in this Paragraph . The conventional bank licensee must\nsubmit this Plan to the CBB within one week of becoming aware of the\nshortfall (see also CA-1.2.2). The conventional bank licensee must\nalready have prepared such a Plan on a contingency basis. The Plan\nmust include the following:\n(a) Estimates of income and expenditure and a forecasted balance\nsheet;\n(b) Measures to be taken to increase the conventional bank licensee's\ncapital ratios;\n(c) A plan and time frame for the increase of capital with the objective\nof meeting fully the buffer requirement; and\n(d) Any other information the CBB deems necessary to carry out the\nassessment required, as indicated in Paragraph CA-2A.2.5.\n8 Common Equity Tier 1 must first be used to meet the minimum capital requirements (including the 8% Tier 1 and 10%\nTotal Capital requirements if necessary), before the remainder can contribute to the capital conservation buffer.\nCA-2A.2 The Capital Conservation Buffer (CCB) Requirement"
+      },
+      {
+        "rule_id": "CA-2A.2.5",
+        "heading": "The Capital Conservation Buffer (CCB) Requirement",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "The CBB shall review the Plan submitted by the conventional bank licensee and shall\napprove it provided it considers that the Plan provides a reasonable basis for\nconserving or raising sufficient capital that will enable the conventional bank licensee\nto meet the buffer requirements within a period acceptable to the CBB. While\nreviewing the Plan, the CBB will also evaluate whether the conventional bank licensee\nhas deliberately reduced its CET1 so as to operate in the buffer range (i.e. below the\ncapital conservation buffer requirement) in order to reduce its cost of capital fo r\ncompetitive purposes."
+      },
+      {
+        "rule_id": "CA-2.2.1",
+        "heading": "Limits and Minima on the Use of Different Forms of Capital",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "CAR components and CARs outlined in Paragraph CA-B.2.1 must meet\nor exceed the following minimum ratios relative to total risk -weighted\nassets:\n(a) CET1 must be at least 6.5% of risk-weighted assets at all times;\n(b) T1 Capital must be at least 8% of risk -weighted assets at all\ntimes;\n(c) Total Capital (T1 Capital plus T2 Capital) must be at least 10%\nof risk-weighted assets at all times;\n(d) In addition, conventional bank licensee s must meet the\nminimum Capital Conservation Buffer (CCB) requirement of\n2.5% of risk-weighted assets. The CCB must be composed of\nCET1 and so this gives an aggregate 9% CET1 including the\nCCB minimum capital requirement;\n(e) A minimum 10.5% T1 Capital Adequacy Ratio including the\nabove CCB requirement; and\n(f) A 12.5% minimum Total Capital Adequacy Ratio including the\nabove CCB requirement.\n Solo Tier 1 Capital and Total Capital"
+      },
+      {
+        "rule_id": "CA-2A.1.2",
+        "heading": "Capital Conservation Best Practice",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "Outside of periods of stress, conventional bank licensee s must hold\nbuffers of capital above the regulatory minimum."
+      },
+      {
+        "rule_id": "CA-2A.1.1",
+        "heading": "Capital Conservation Best Practice",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "This section outlines the operation of the capital conservation buffer, which is\ndesigned to ensure that banks build up capital buffers outside periods of stress which\ncan be drawn down as losses are incurred. The requirement is based on simple capital\nconservation rules designed to avoid breaches of minimum capital requirements."
+      },
+      {
+        "rule_id": "CA-B.2.1",
+        "heading": "Transitional Arrangements",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "The transitional arrangements for implementing the new standards help\nto ensure that the banking sector can meet the higher capital standards\nthrough reasonable earnings retention and capital raising, while still\nsupporting lending to the economy. The transitional arrangements are\nas follows:\n(a) Implementation of this Module begin s on 1 January 2015. As of 1\nJanuary 2015, conventional bank licensees are required to meet the\nfollowing new minimum CAR requirements taking each component\nof capital as defined in Chapters CA-2 and CA-2A divided by total\nrisk-weighted assets (RWAs) as defined in Paragraph CA-1.1.3:\nComponents of Consolidated CARs\n Optional Minimum Ratio Required\nCore Equity Tier 1 (CET 1) 6.5%\nAdditional Tier 1 (AT1) 1.5%\nTier 1 (T1) 8%\nTier 2 (T2) 2%\nTotal Capital 10%\nCapital Conservation Buffer\n(CCB) (see below)\n 2.5%\nCARs including CCB\nCET 1 plus CCB 9%\nTier 1 plus CCB 10.5%\nTotal Capital plus CCB 12.5%\nComponents of Solo CARs\n Optional Minimum Ratio Required\nCore Equity Tier 1 (CET1) 4.5%\nAdditional Tier 1 (AT1) 1.5%\nTier 1 (T1) 6.0%\nTier 2 (T2) 2%\nTotal Capital 8.0%\nCapital Conservation\nBuffer (CCB) (see below)\n 0%\nCARs including CCB\nCET 1 plus CCB N/A\nTier 1 plus CCB N/A\nTotal Capital plus CCB N/A\n(b) The difference between the Total Capital plus CCB (Capital\nConservation Buffer – see Chapter CA-2A for more details) of\n12.5% and the T1 plus CCB requirement (10.5%) for the\nconsolidated CAR can be met with T2 and higher forms of capital;\n(c) The regulatory adjustments (i.e. deductions), including amounts\nabove the aggregate 15% limit for significant investments in\nfinancial institutions, mortgage servicing rights, and deferred tax\nassets from temporary differences, are fully deducted from CET1\nby 1 January 2019;"
+      }
+    ]
+  },
+  {
+    "question": "What is the minimum liquidity coverage ratio a bank must maintain?",
+    "answer": "The Rulebook excerpts I have don't cover this.",
+    "status": "refused",
+    "citations": [],
+    "chunks": [
+      {
+        "rule_id": "CA-2A.2.2",
+        "heading": "The Capital Conservation Buffer (CCB) Requirement",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "Conventional bank licensees must note that they are required to\nmaintain a minimum consolidated Total Capital Ratio of 12.5% and a\nsolo Total Capital Ratio of 8% regardless of whether they do or do not\nhave AT1 or T2 Capital and therefore conventional bank licensees will\nbe required to retain 100% of the annual net profit unless their\nconsolidated Total Capital Ratio is above 12.5% and thei r solo Total\ncapital Ratio is above 8%."
+      },
+      {
+        "rule_id": "CA-2.2.1",
+        "heading": "Limits and Minima on the Use of Different Forms of Capital",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "CAR components and CARs outlined in Paragraph CA-B.2.1 must meet\nor exceed the following minimum ratios relative to total risk -weighted\nassets:\n(a) CET1 must be at least 6.5% of risk-weighted assets at all times;\n(b) T1 Capital must be at least 8% of risk -weighted assets at all\ntimes;\n(c) Total Capital (T1 Capital plus T2 Capital) must be at least 10%\nof risk-weighted assets at all times;\n(d) In addition, conventional bank licensee s must meet the\nminimum Capital Conservation Buffer (CCB) requirement of\n2.5% of risk-weighted assets. The CCB must be composed of\nCET1 and so this gives an aggregate 9% CET1 including the\nCCB minimum capital requirement;\n(e) A minimum 10.5% T1 Capital Adequacy Ratio including the\nabove CCB requirement; and\n(f) A 12.5% minimum Total Capital Adequacy Ratio including the\nabove CCB requirement.\n Solo Tier 1 Capital and Total Capital"
+      },
+      {
+        "rule_id": "CA-2A.2.1",
+        "heading": "The Capital Conservation Buffer (CCB) Requirement",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "Conventional bank licensees are required to hold a Capital Conservation\nBuffer (CCB) of 2.5%, comprised of C ET1 above the regulatory\nminimum Total Capital ratio of 10% .8 Capital distribution constraints\nwill be imposed on a conventional bank licensee when the CCB falls\nbelow 2.5%. The constraints imposed only relate to distributions, not\nthe operation of the conventional bank licensee."
+      },
+      {
+        "rule_id": "CA-6.4.19",
+        "heading": "Treatment of Securitisation Exposures",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_2__July_2019.pdf",
+        "text": "Conventional bank licensee s are permitted to treat off -balance sheet\nsecuritisation exposures as eligible liquidity facilities if the following\nminimum requirements are satisfied:\n(a) The facility documentation must clearly identify and limit the\ncircumstances under which it may be drawn. Draws under the\nfacility must be limited to the amount that is likely to be repaid\nfully from the liquidation of the underlying exposures and any\nseller-provided credit enhancements. In addition, the facility\nmust not cover any losses incurred in the underlying pool of\nexposures prior to a draw, or be structured such that draw -down\nis certain (as indicated by regular or continuous draws);\n(b) The facility must be subject to an asset quality test that precludes\nit from being drawn to cover credit risk exposures where the\nobligor is more than 90 days past due on any material risk in the\nbanking group . In addition, if the exposures that a liquidity\nfacility is required to fund are externally rated securities, the\nfacility can only be used to fund securities that are externally\nrated investment grade at the time of funding;\n(c) The facility cannot be drawn after all applicable (e.g. transaction -\nspecific and progr amme-wide) credit enhancements from which\nthe liquidity would benefit have been exhausted; and\n(d) Repayment of draws on the facility (i.e. assets acquired under a\npurchase agreement or loans made under a lending agreement)\nmust not be subordinated to any interests of any note holder in\nthe programme (e.g. ABCP programme) or subject to deferral or\nwaiver."
+      },
+      {
+        "rule_id": "CA-A.1.5",
+        "heading": "Purpose",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "The CBB requires that conventional bank licensees maintain adequate\ncapital, in accordance with the requirements of this Module, against\ntheir risks. In particular, all Bahraini conventional bank licensees are\nrequired to maintain capital adequacy ratios or CARs (both on a solo and\na consolidated basis where applicable) above the minimum levels set out\nin Chapters CA-B and CA-2. Failure to remain above these ratio s will\nresult in enforcement and other measures as outlined in Section CA-1.2\nand Module EN. The detailed methodology for calculating the CARs\nis set out in the instructions for the form PIR."
+      },
+      {
+        "rule_id": "CA-6.1.1B",
+        "heading": "Scope and Definitions of Transactions Covered under the",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_2__July_2019.pdf",
+        "text": "In order for a conventional bank licensee to use the securitisation\nframework, a conventional bank licensee must have the information\nspecified below or risk weight the exposure at 1,250%:\n(a) A conventional bank licensee must have a comprehensive\nunderstanding of the risk characteristics of its individual\nsecuritisation exposures, whether on -balance sheet or off -\nbalance sheet, as well as the risk characteristics of the pools\nunderlying its securitisation exposures;\n(b) A conventional bank licensee must be able to access\nperformance information on the underlying pools on an on -\ngoing basis in a timely manner. Such information should\ninclude: exposure type, percentage of loans more than 30, 60\nand 90 days past due, default rates, prepayment rates, loans in\nforeclosure, property type, occupancy, average credit score or\nother measures of creditworthiness, average loan-to-value ratio,\nand industry and geographic diversification. For re -\nsecuritisations, a conventional bank licensee must have not\nonly information on the underlying securitisation tranches,\nsuch as the issuer name and credit quality, bu t also the\ncharacteristics and performance of the pools underlying the\nsecuritisation tranches; and\n(c) A conventional bank licensee must have a thorough\nunderstanding of all structural features of a securitisation\ntransaction that would materially impact the performance of the\nconventional bank licensee's exposures to the transaction, such\nas the contractual waterfall and waterfall -related triggers, credit\nenhancements, liquidity enhancements, market value triggers,\nand deal-specific definitions of default.\nCA-6.1 Scope and Definitions of Transactions Covered under the\nSecuritisation Framework (continued)"
+      },
+      {
+        "rule_id": "CA-6.4.18",
+        "heading": "Treatment of Securitisation Exposures",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_2__July_2019.pdf",
+        "text": "For risk -based capital purposes, conventional bank licensees must\ndetermine whether, according to the criteria outlined below, an off -\nbalance sheet securitisation exposure qualifies as an 'eligible liquidity\nfacility' or an 'eligible servicer cash advance facility'. All other off -\nbalance sheet securitisation exposures will receive a 100% CCF.\n Eligible Liquidity Facilities"
+      },
+      {
+        "rule_id": "CA-1.2.2",
+        "heading": "Reporting",
+        "module": "CA",
+        "last_changed": "January 2015",
+        "source_url": "https://cbben.thomsonreuters.com/sites/default/files/net_file_store/Vol_1_CA_Part_1__July_2019.pdf",
+        "text": "All Bahraini conventional bank licensees must provide the CBB , with\nimmediate written notification (i.e. by no later than the following\nbusiness day) of any actual breach of the minimum ratios outlined in\nSubparagraph CA-B.2.1 (a). Where such notification is given, the\nconventional bank licensee must also:\n(a) Provide the CBB n o later than one calendar week after the\nnotification, with a written action plan setting out how the\nconventional bank licensee proposes to restore the relevant ratios to\nthe required minimum level(s), further, describing how the\nconventional bank licensee will ensure that a breach of such ratios\nwill not occur again in the future;\n(b) Provide the CBB with weekly reports basis thereafter on the\nconventional bank licensee's relevant ratios until such ratios have\nreached the require d minimu m, level(s) described in\nSubparagraph CA-B.2.1(a); and\n(c) Take additional note of the Capital Conservation plan requirements\nin Chapter CA-2A where additional action is required when the\nCapital Conservation Buffer has been breached."
+      }
+    ]
+  }
+]
