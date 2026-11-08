@@ -11,7 +11,7 @@ sys.path.insert(0, str(ROOT / "src"))
 from answer import REFUSAL, answer_question  # noqa: E402
 from config import RETRIEVAL_DATE, SOURCES, TOP_K  # noqa: E402
 
-st.set_page_config(page_title="CBB Rulebook Assistant", page_icon="🏛️", layout="wide")
+st.set_page_config(page_title="CBB Rulebook Assistant", layout="wide")
 
 CACHE_FILE = Path(__file__).parent / "cached_examples.json"
 EXAMPLES = json.loads(CACHE_FILE.read_text(encoding="utf-8")) if CACHE_FILE.exists() else []
@@ -39,14 +39,14 @@ def show_result(question, status, text, chunks, cached=False):
         for c in chunks:
             cited = f"[{c['rule_id']}]" in text
             st.markdown(f"**{c['rule_id']}** - {c['heading']} ({c['module']}, last changed {c['last_changed']})"
-                        + ("  ✅ cited" if cited else ""))
+                        + ("  [cited]" if cited else ""))
             st.text(c["text"])
             st.caption(f"Source: {c['source_url']}")
             st.divider()
 
 
 # ------------------------------------------------------------------ layout
-st.title("🏛️ CBB Rulebook Compliance Assistant")
+st.title("CBB Rulebook Compliance Assistant")
 st.error("**Not legal or compliance advice.** This is a student portfolio project. Answers come only from a small "
          "extract of the CBB Rulebook (Volume 1: modules FC, HC and CA) and may be incomplete or out of date. "
          "Always check the official Rulebook.")
